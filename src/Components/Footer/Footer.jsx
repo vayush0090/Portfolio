@@ -5,7 +5,7 @@ const Footer = () => {
     <div id='Contact' className='bg-[#465697] p-4 md:p-12 text-white md:flex md:justify-around md:items-center sm:flex sm:justify-between sm:items-center flex justify-between items-center'>
         <div>
             <h1 className='text-xl sm:text-4xl md:text-6xl font-bold'>Contact</h1>
-            <h3 className='text-sm sm:text-xl md:text-2xl font-normal'>Feel Free Ton reach out !</h3>
+            <h3 className='text-sm sm:text-xl md:text-2xl font-normal'>Feel Free To reach out !</h3>
         </div>
         <ul className='space-y-2 md:space-y-4'>
             <li className='flex gap-1 items-center'>
